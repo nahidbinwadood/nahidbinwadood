@@ -1,7 +1,12 @@
+<div align="center">
+ 
+<img width="100%" src="https://github.com/nahidbinwadood/nahidbinwadood/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Akm Nahid Bin Wadood</h1>
 
 ##  About Me
-As a full-stack web developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
+As a junior frontend developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
 
 
 
