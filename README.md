@@ -30,6 +30,7 @@ As a junior frontend developer, I am proficient in both the front-end and back-e
 
 
 <div align="start">
+
  
  ## Progress:
 
