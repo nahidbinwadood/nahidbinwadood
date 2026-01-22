@@ -34,7 +34,7 @@ As a junior frontend developer, I am proficient in both the front-end and back-e
  
  ## Progress:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidbinwadood&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahidbinwadood&theme=algolia&hide_border=true)](https://git.io/streak-stats)
  
 </div>
 
